@@ -70,8 +70,4 @@ Final Recommendation
 - [ ] Add persistent user profiles for returning users
 - [ ] Expose the pipeline as an API for third-party integration
 
----
 
-## 📄 License
-
-Add your license here (e.g., MIT).
